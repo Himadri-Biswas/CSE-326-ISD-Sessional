@@ -1,6 +1,6 @@
 <div align="center">
 
-# ShopZone — Full-Stack E-Commerce Platform
+# Amazon — Full-Stack E-Commerce Platform
 
 ### A production-grade online marketplace with dual customer & seller interfaces, Stripe payments, and role-based access control
 
@@ -50,7 +50,7 @@
 
 ## Overview
 
-ShopZone is a full-stack e-commerce web application built with a **NestJS** backend and a **React + Vite** frontend. The platform supports two distinct user roles — **customers** who browse, purchase, and review products, and **sellers** who list products, manage inventory, and fulfill orders.
+Amazon is a full-stack e-commerce web application built with a **NestJS** backend and a **React + Vite** frontend. The platform supports two distinct user roles — **customers** who browse, purchase, and review products, and **sellers** who list products, manage inventory, and fulfill orders.
 
 Under the hood, the system integrates **Clerk** for enterprise-grade authentication with JWT-based session verification, **Stripe** for secure online payment processing, **MongoDB Atlas** as the cloud database, and is deployed serverlessly on **Vercel** with a **GitHub Actions** CI/CD pipeline for automated testing on every push.
 
