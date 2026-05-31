@@ -1,4 +1,0 @@
-https://github.com/mehedi-107/amazon-backend
-https://github.com/mehedi-107/amazon-frontend
-
-https://amazon-frontend-rosy.vercel.app/
